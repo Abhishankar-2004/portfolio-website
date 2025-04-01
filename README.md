@@ -80,9 +80,6 @@ You can deploy this website using any static hosting service:
 - Add animations and transitions
 - Include a downloadable resume/CV
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
